@@ -1,2 +1,6 @@
-# xml-to-excel-converter
-A tool to convert XML files into structured Excel format for data analysis. Due to NDA, the source code is private.
+# XML to Excel Converter  
+🚀 **Overview:**  
+This tool converts XML files into structured Excel format, enabling faster data analysis.  
+
+🔒 **Why is the code private?**  
+Due to NDA restrictions, the source code is not publicly available. However, I can discuss the implementation in detail upon request.
