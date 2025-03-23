@@ -1,0 +1,1 @@
+here which tags you require (MO) will be kept in a list. Also which xml you require, the name of xmls which you wish to convert from all the files inside tar file.
