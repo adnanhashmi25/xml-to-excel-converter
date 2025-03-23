@@ -1,0 +1,1 @@
+This where you will keep your config files as hw_type.csv. This file csv will contain parameters which don't follow general XML rules, hierarchy and parameter will be the two coloumns. This would be a one time addition.
