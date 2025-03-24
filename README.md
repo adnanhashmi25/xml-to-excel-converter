@@ -17,21 +17,21 @@ Ensure you have the following installed:
 - **Python 3.x** (No external libraries required)  
 
 ### 2️⃣ Clone the Repository  
-```bash
+
 git clone https://github.com/adnanhashmi25/xml-to-excel-converter.git
 cd xml-to-excel-converter
+
 ### 3️⃣ Install Dependencies
-```bash
 pip install -r requirements.txt
+
 ### 4️⃣ Provide Input Files
-```bash
 Place your XML files inside the /input folder.
 Config files should be provided separately (if applicable).
+
 ### 5️⃣ Run the Converter
-```bash
 python xml_to_excel.py
+
 ### 6️⃣ Output
-```bash
 The script will generate an Excel file in the /output folder.
 📌 Features
 ✔ Converts hierarchical XML data into structured Excel format
