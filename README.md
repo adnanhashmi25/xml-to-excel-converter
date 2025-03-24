@@ -35,3 +35,7 @@ The script will generate an Excel file in the /output folder.
 ✔ Handles large XML files efficiently
 ✔ Supports batch processing of multiple XMLs
 ✔ Customizable output structure
+
+## 📜 Detailed Documentation  
+For a full project breakdown, visit the [docs folder](docs/).  
+- [Project Summary](docs/project_summary.md)  
